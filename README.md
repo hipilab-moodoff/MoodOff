@@ -1,3 +1,3 @@
 # MoodOff
 
-The entire code base of MoodOff. This is the master branch.
+The entire code base of MoodOff.
